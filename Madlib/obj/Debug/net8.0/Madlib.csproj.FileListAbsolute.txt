@@ -1,0 +1,15 @@
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\bin\Debug\net8.0\Madlib.exe
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\bin\Debug\net8.0\Madlib.deps.json
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\bin\Debug\net8.0\Madlib.runtimeconfig.json
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\bin\Debug\net8.0\Madlib.dll
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\bin\Debug\net8.0\Madlib.pdb
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\obj\Debug\net8.0\Madlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\obj\Debug\net8.0\Madlib.AssemblyInfoInputs.cache
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\obj\Debug\net8.0\Madlib.AssemblyInfo.cs
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\obj\Debug\net8.0\Madlib.csproj.CoreCompileInputs.cache
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\obj\Debug\net8.0\Madlib.sourcelink.json
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\obj\Debug\net8.0\Madlib.dll
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\obj\Debug\net8.0\refint\Madlib.dll
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\obj\Debug\net8.0\Madlib.pdb
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\obj\Debug\net8.0\Madlib.genruntimeconfig.cache
+C:\Users\n.d.selvaraj\source\repos\CsharpLearning\Madlib\obj\Debug\net8.0\ref\Madlib.dll
